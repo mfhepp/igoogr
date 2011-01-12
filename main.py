@@ -14,6 +14,8 @@ Submission for the ISWC 2009 Linked Data-a-thon competition.
 This software is free software under the LPGL.
 """
 
+# Update 2011-01-12: Patched to work with RDFlib 3.0.0.
+
 # TBD / Open issues
 # check, why “Who sells cell phones and on which Web pages can I get more information on respective offerings?” causes error (likely strange quotation marks)
 # - Order opening hours by day of week
